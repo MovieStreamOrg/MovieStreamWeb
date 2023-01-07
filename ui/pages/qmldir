@@ -1,0 +1,6 @@
+module pages
+Dashboard 1.0 qrc:/pages/Dashboard.qml
+Explore 1.0 qrc:/pages/Explore.qml
+LoginCheckpoint 1.0 qrc:/pages/LoginCheckpoint.qml
+LoginForm 1.0 qrc:/pages/LoginForm.qml
+Registration 1.0 qrc:/pages/RegistrationSimpleForm.qml

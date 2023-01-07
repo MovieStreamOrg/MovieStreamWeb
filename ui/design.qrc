@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+       <file>pages/Dashboard.qml</file>
+       <file>pages/Explore.qml</file>
+       <file>pages/LoginCheckPoint.qml</file>
+       <file>pages/LoginForm.qml</file>
+       <file>pages/RegistrationSimpleForm.qml</file>
+
+        <file>views/AlertBox.qml</file>
+        <file>views/AppButton.qml</file>
+        <file>views/AppText.qml</file>
+        <file>views/AppTextInput.qml</file>
+        <file>views/FontCollection.qml</file>
+        <file>views/Navigation.qml</file>
+        <file>views/VideoItem.qml</file>
+        <file>views/iconfont/FontAwesome.qml</file>
+        <file>views/VideoItemTop.qml</file>
+    </qresource>
+    <qresource prefix="/pages">
+        <file>pages/qmldir</file>
+
+    </qresource>
+    <qresource prefix="/views">
+        <file>views/qmldir</file>
+
+    </qresource>
+</RCC>

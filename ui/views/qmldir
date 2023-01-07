@@ -1,0 +1,9 @@
+module views
+AlertBox 1.0 qrc:/views/AlertBox.qml
+AppButton 1.0 qrc:/views/AppButton.qml
+AppText 1.0 qrc:/views/AppText.qml
+AppTextInput 1.0 qrc:/views/AppTextInput.qml
+Navigation 1.0 qrc:/views/Navigation.qml
+VideoItem 1.0 qrc:/views/VideoItem.qml
+FontAwesome 1.0 qrc:/views/iconfont/FontAwesome.qml
+VideoItemTop 1.0 qrc:/views/VideoItemTop.qml

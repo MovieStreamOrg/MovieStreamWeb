@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/images/movieposter.jpg</file>
+        <file>assets/fonts/fa-brands-400.ttf</file>
+        <file>assets/fonts/fa-regular-400.ttf</file>
+        <file>assets/fonts/fa-solid-900.ttf</file>
+        <file>assets/fonts/fa-v4compatibility.ttf</file>
+        <file>assets/images/movie.png</file>
+        <file>assets/images/film.svg</file>
+        <file>assets/fonts/HelevitcaNueueMedium.ttf</file>
+        <file>assets/fonts/HelveticaNeue.ttf</file>
+    </qresource>
+</RCC>
